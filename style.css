@@ -80,6 +80,7 @@ section label {
   display: block;
   margin-bottom: 30px;
   color: #777;
+  justify-content: center;
 }
 
 section p {
@@ -290,4 +291,5 @@ footer {
     font-size: 14px;
   }
 }
+
 
